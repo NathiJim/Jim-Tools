@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #gestion_menu label{
+	margin-left: 100px;
+}
+
+#gestion_menu span.dashicons {
+	padding-right: 7px;
+	padding-top: 1px;
+	font-size: 23px;
+}
